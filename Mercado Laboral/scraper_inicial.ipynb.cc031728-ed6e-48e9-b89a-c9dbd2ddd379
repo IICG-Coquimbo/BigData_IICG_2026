@@ -2,16 +2,33 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 2,
+   "execution_count": 3,
    "id": "0266cbb8-e66c-4138-ad4b-d79da672f241",
    "metadata": {},
    "outputs": [
     {
-     "ename": "IndentationError",
-     "evalue": "expected an indented block after 'if' statement on line 20 (2652104544.py, line 21)",
-     "output_type": "error",
-     "traceback": [
-      "\u001b[0;36m  Cell \u001b[0;32mIn[2], line 21\u001b[0;36m\u001b[0m\n\u001b[0;31m    print(f\"Encontrado: {dato.text.strip()}\")\u001b[0m\n\u001b[0m    ^\u001b[0m\n\u001b[0;31mIndentationError\u001b[0m\u001b[0;31m:\u001b[0m expected an indented block after 'if' statement on line 20\n"
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Encontrado: Developer / Engineer\n",
+      "Encontrado: Developer / Engineer\n",
+      "Encontrado: Developer / Engineer\n",
+      "Encontrado: Developer / Engineer\n",
+      "Encontrado: Developer / Engineer\n",
+      "Encontrado: Developer / Engineer\n",
+      "Encontrado: Developer / Engineer\n",
+      "Encontrado: Developer / Engineer\n",
+      "Encontrado: Developer / Engineer\n",
+      "Encontrado: Developer / Engineer\n",
+      "Encontrado: Developer / Engineer\n",
+      "Encontrado: Developer / Engineer\n",
+      "Encontrado: Developer / Engineer\n",
+      "Encontrado: Developer / Engineer\n",
+      "Encontrado: Developer / Engineer\n",
+      "Encontrado: Developer / Engineer\n",
+      "Encontrado: Developer / Engineer\n",
+      "Encontrado: Developer / Engineer\n",
+      "Encontrado: Developer / Engineer\n"
      ]
     }
    ],

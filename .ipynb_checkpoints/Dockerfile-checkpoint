@@ -1,0 +1,23 @@
+ FROM jupyter/pyspark-notebook:latest2
+3 USER roo4
+5 # 1. Instalar dependencias base y configurar el repo de Google Chrme
+6 RUN apt-get update && apt-get install -y wget gnupg2 curl & \
+7 wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub |
+apt-key add  && \
+8 echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable
+main" >> /etc/apt/sources.list.d/google-chro g. 15
+
+9
+10 # 2. Instalar Google Chrome y librer  de soporte
+11 RUN apt-get update && apt-geinstall -y \
+12 google-rome-stable
+13 libnss\
+14 libgbm1 
+15 libasound2 \
+16 && apt-get clean && rm -rf /rib/apt/lists/*
+17
+18 # 3. Instalar librer as de Python (incluyendo emanager de drivers)
+19 RUN pip install selenium pymgwebdriver-ma
+ nager
+20
+21 USER jovyanrome.listome.list

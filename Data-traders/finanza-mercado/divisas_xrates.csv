@@ -1,0 +1,201 @@
+base,divisa,tipo_cambio
+USD,Argentine Peso,1377.172876
+USD,Australian Dollar,1.440751
+USD,Bahraini Dinar,0.376000
+USD,Botswana Pula,13.622447
+USD,Brazilian Real,5.234319
+USD,British Pound,0.748475
+USD,Bruneian Dollar,1.281566
+USD,Canadian Dollar,1.382239
+USD,Chilean Peso,917.080814
+USD,Chinese Yuan Renminbi,6.901563
+USD,Colombian Peso,3699.309219
+USD,Czech Koruna,21.156550
+USD,Danish Krone,6.461924
+USD,Emirati Dirham,3.672500
+USD,Euro,0.864744
+USD,Hong Kong Dollar,7.818174
+USD,Hungarian Forint,335.051144
+USD,Icelandic Krona,123.832685
+USD,Indian Rupee,94.056066
+USD,Indonesian Rupiah,16865.452727
+USD,Iranian Rial,1311731.030971
+USD,Israeli Shekel,3.117314
+USD,Japanese Yen,159.445493
+USD,Kazakhstani Tenge,482.050067
+USD,Kuwaiti Dinar,0.306570
+USD,Libyan Dinar,6.380138
+USD,Malaysian Ringgit,3.979269
+USD,Mauritian Rupee,46.445780
+USD,Mexican Peso,17.771053
+USD,Nepalese Rupee,150.560247
+USD,New Zealand Dollar,1.723818
+USD,Norwegian Krone,9.687855
+USD,Omani Rial,0.384930
+USD,Pakistani Rupee,279.022301
+USD,Philippine Peso,60.259986
+USD,Polish Zloty,3.699067
+USD,Qatari Riyal,3.640000
+USD,Romanian New Leu,4.405970
+USD,Russian Ruble,80.994886
+USD,Saudi Arabian Riyal,3.750000
+USD,Singapore Dollar,1.281566
+USD,South African Rand,16.987120
+USD,South Korean Won,1505.842696
+USD,Sri Lankan Rupee,314.673084
+USD,Swedish Krona,9.351991
+USD,Swiss Franc,0.791865
+USD,Taiwan New Dollar,31.971751
+USD,Thai Baht,32.786118
+USD,Trinidadian Dollar,6.800995
+USD,Turkish Lira,44.362080
+EUR,Argentine Peso,1592.579473
+EUR,Australian Dollar,1.666102
+EUR,Bahraini Dinar,0.434811
+EUR,Botswana Pula,15.753163
+EUR,Brazilian Real,6.053031
+EUR,British Pound,0.865546
+EUR,Bruneian Dollar,1.482019
+EUR,Canadian Dollar,1.598438
+EUR,Chilean Peso,1060.523413
+EUR,Chinese Yuan Renminbi,7.981051
+EUR,Colombian Peso,4277.926197
+EUR,Czech Koruna,24.465692
+EUR,Danish Krone,7.472647
+EUR,Emirati Dirham,4.246924
+EUR,Hong Kong Dollar,9.041031
+EUR,Hungarian Forint,387.457220
+EUR,Icelandic Krona,143.201624
+EUR,Indian Rupee,108.767579
+EUR,Indonesian Rupiah,19503.414764
+EUR,Iranian Rial,1516901.726292
+EUR,Israeli Shekel,3.604900
+EUR,Japanese Yen,184.384709
+EUR,Kazakhstani Tenge,557.448563
+EUR,Kuwaiti Dinar,0.354521
+EUR,Libyan Dinar,7.378069
+EUR,Malaysian Ringgit,4.601675
+EUR,Mauritian Rupee,53.710465
+EUR,Mexican Peso,20.550662
+EUR,Nepalese Rupee,174.109702
+EUR,New Zealand Dollar,1.993444
+EUR,Norwegian Krone,11.203153
+EUR,Omani Rial,0.445138
+EUR,Pakistani Rupee,322.664784
+EUR,Philippine Peso,69.685381
+EUR,Polish Zloty,4.277646
+EUR,Qatari Riyal,4.209340
+EUR,Romanian New Leu,5.095117
+EUR,Russian Ruble,93.663472
+EUR,Saudi Arabian Riyal,4.336546
+EUR,Singapore Dollar,1.482019
+EUR,South African Rand,19.644113
+EUR,South Korean Won,1741.374818
+EUR,Sri Lankan Rupee,363.891783
+EUR,Swedish Krona,10.814756
+EUR,Swiss Franc,0.915722
+EUR,Taiwan New Dollar,36.972522
+EUR,Thai Baht,37.914266
+EUR,Trinidadian Dollar,7.864753
+EUR,Turkish Lira,51.300849
+EUR,US Dollar,1.156412
+CLP,Argentine Peso,1.501692
+CLP,Australian Dollar,0.001571
+CLP,Bahraini Dinar,0.000410
+CLP,Botswana Pula,0.014854
+CLP,Brazilian Real,0.005708
+CLP,British Pound,0.000816
+CLP,Bruneian Dollar,0.001397
+CLP,Canadian Dollar,0.001507
+CLP,Chinese Yuan Renminbi,0.007526
+CLP,Colombian Peso,4.033788
+CLP,Czech Koruna,0.023069
+CLP,Danish Krone,0.007046
+CLP,Emirati Dirham,0.004005
+CLP,Euro,0.000943
+CLP,Hong Kong Dollar,0.008525
+CLP,Hungarian Forint,0.365345
+CLP,Icelandic Krona,0.135029
+CLP,Indian Rupee,0.102560
+CLP,Indonesian Rupiah,18.390367
+CLP,Iranian Rial,1430.333086
+CLP,Israeli Shekel,0.003399
+CLP,Japanese Yen,0.173862
+CLP,Kazakhstani Tenge,0.525635
+CLP,Kuwaiti Dinar,0.000334
+CLP,Libyan Dinar,0.006957
+CLP,Malaysian Ringgit,0.004339
+CLP,Mauritian Rupee,0.050645
+CLP,Mexican Peso,0.019378
+CLP,Nepalese Rupee,0.164173
+CLP,New Zealand Dollar,0.001880
+CLP,Norwegian Krone,0.010564
+CLP,Omani Rial,0.000420
+CLP,Pakistani Rupee,0.304251
+CLP,Philippine Peso,0.065708
+CLP,Polish Zloty,0.004034
+CLP,Qatari Riyal,0.003969
+CLP,Romanian New Leu,0.004804
+CLP,Russian Ruble,0.088318
+CLP,Saudi Arabian Riyal,0.004089
+CLP,Singapore Dollar,0.001397
+CLP,South African Rand,0.018523
+CLP,South Korean Won,1.641996
+CLP,Sri Lankan Rupee,0.343125
+CLP,Swedish Krona,0.010198
+CLP,Swiss Franc,0.000863
+CLP,Taiwan New Dollar,0.034863
+CLP,Thai Baht,0.035751
+CLP,Trinidadian Dollar,0.007416
+CLP,Turkish Lira,0.048373
+CLP,US Dollar,0.001090
+GBP,Argentine Peso,1839.971374
+GBP,Australian Dollar,1.924915
+GBP,Bahraini Dinar,0.502355
+GBP,Botswana Pula,18.200265
+GBP,Brazilian Real,6.993311
+GBP,Bruneian Dollar,1.712236
+GBP,Canadian Dollar,1.846740
+GBP,Chilean Peso,1225.265524
+GBP,Chinese Yuan Renminbi,9.220831
+GBP,Colombian Peso,4942.460881
+GBP,Czech Koruna,28.266202
+GBP,Danish Krone,8.633451
+GBP,Emirati Dirham,4.906642
+GBP,Euro,1.155340
+GBP,Hong Kong Dollar,10.445468
+GBP,Hungarian Forint,447.644972
+GBP,Icelandic Krona,165.446619
+GBP,Indian Rupee,125.663576
+GBP,Indonesian Rupiah,22533.082637
+GBP,Iranian Rial,1752537.817835
+GBP,Israeli Shekel,4.164887
+GBP,Japanese Yen,213.027100
+GBP,Kazakhstani Tenge,644.042835
+GBP,Kuwaiti Dinar,0.409593
+GBP,Libyan Dinar,8.524181
+GBP,Malaysian Ringgit,5.316501
+GBP,Mauritian Rupee,62.053869
+GBP,Mexican Peso,23.743010
+GBP,Nepalese Rupee,201.155969
+GBP,New Zealand Dollar,2.303107
+GBP,Norwegian Krone,12.943455
+GBP,Omani Rial,0.514286
+GBP,Pakistani Rupee,372.787654
+GBP,Philippine Peso,80.510335
+GBP,Polish Zloty,4.942137
+GBP,Qatari Riyal,4.863221
+GBP,Romanian New Leu,5.886595
+GBP,Russian Ruble,108.213191
+GBP,Saudi Arabian Riyal,5.010186
+GBP,Singapore Dollar,1.712236
+GBP,South African Rand,22.695637
+GBP,South Korean Won,2011.880645
+GBP,Sri Lankan Rupee,420.418871
+GBP,Swedish Krona,12.494724
+GBP,Swiss Franc,1.057971
+GBP,Taiwan New Dollar,42.715848
+GBP,Thai Baht,43.803882
+GBP,Trinidadian Dollar,9.086467
+GBP,Turkish Lira,59.269943
+GBP,US Dollar,1.336050

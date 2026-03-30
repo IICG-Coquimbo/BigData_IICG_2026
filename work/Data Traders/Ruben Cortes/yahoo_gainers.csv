@@ -1,26 +1,26 @@
-simbolo,nombre,precio,cambio,porcentaje,volumen
-AGX,"Argan, Inc.",,566.62,+155.77,+37.91%
-U,Unity Software Inc.,,19.45,+2.32,+13.54%
-ADV,Advantage Solutions Inc.,,25.57,+2.99,+13.27%
-ADMA,"ADMA Biologics, Inc.",,9.25,+0.96,+11.58%
-MEOH,Methanex Corporation,,65.22,+5.76,+9.69%
-SSRM,SSR Mining Inc.,,26.45,+1.78,+7.24%
-AG,First Majestic Silver Corp.,,20.68,+1.36,+7.04%
-SQM,Sociedad Química y Minera de Chile S.A.,,82.70,+5.33,+6.89%
-TWO-PB,Two Harbors Investment Corp.,,24.73,+1.58,+6.83%
-ETR,Entergy Corporation,,109.88,+7.02,+6.82%
-GSAT,"Globalstar, Inc.",,64.16,+3.88,+6.45%
-CAR,"Avis Budget Group, Inc.",,148.45,+8.87,+6.35%
-HYMC,Hycroft Mining Holding Corporation,,33.05,+1.87,+6.00%
-NG,NovaGold Resources Inc.,,8.19,+0.46,+5.95%
-MRX,Marex Group plc,,42.96,+2.41,+5.94%
-CDE,"Coeur Mining, Inc.",,17.13,+0.96,+5.94%
-AUGO,Aura Minerals Inc.,,70.07,+3.80,+5.73%
-ORLA,Orla Mining Ltd.,,14.60,+0.79,+5.72%
-BF-B,Brown-Forman Corporation,,27.19,+1.45,+5.63%
-SVM,Silvercorp Metals Inc.,,10.23,+0.54,+5.57%
-TWO-PC,Two Harbors Investment Corp.,,24.76,+1.30,+5.56%
-TWO-PA,Two Harbors Investment Corp.,,24.73,+1.30,+5.55%
-AGI,Alamos Gold Inc.,,42.54,+2.23,+5.53%
-BTU,Peabody Energy Corporation,,39.50,+2.07,+5.53%
-TFX,Teleflex Incorporated,,116.22,+5.73,+5.19%
+categoria,simbolo,nombre,precio,cambio,porcentaje,volumen
+gainers,AGX,"Argan, Inc.",,566.62,+155.77,+37.91%
+gainers,U,Unity Software Inc.,,19.45,+2.32,+13.54%
+gainers,ADV,Advantage Solutions Inc.,,25.57,+2.99,+13.27%
+gainers,ADMA,"ADMA Biologics, Inc.",,9.25,+0.96,+11.58%
+gainers,MEOH,Methanex Corporation,,65.22,+5.76,+9.69%
+gainers,SSRM,SSR Mining Inc.,,26.45,+1.78,+7.24%
+gainers,AG,First Majestic Silver Corp.,,20.68,+1.36,+7.04%
+gainers,SQM,Sociedad Química y Minera de Chile S.A.,,82.70,+5.33,+6.89%
+gainers,TWO-PB,Two Harbors Investment Corp.,,24.73,+1.58,+6.83%
+gainers,ETR,Entergy Corporation,,109.88,+7.02,+6.82%
+gainers,GSAT,"Globalstar, Inc.",,64.16,+3.88,+6.45%
+gainers,CAR,"Avis Budget Group, Inc.",,148.45,+8.87,+6.35%
+gainers,HYMC,Hycroft Mining Holding Corporation,,33.05,+1.87,+6.00%
+gainers,NG,NovaGold Resources Inc.,,8.19,+0.46,+5.95%
+gainers,MRX,Marex Group plc,,42.96,+2.41,+5.94%
+gainers,CDE,"Coeur Mining, Inc.",,17.13,+0.96,+5.94%
+gainers,AUGO,Aura Minerals Inc.,,70.07,+3.80,+5.73%
+gainers,ORLA,Orla Mining Ltd.,,14.60,+0.79,+5.72%
+gainers,BF-B,Brown-Forman Corporation,,27.19,+1.45,+5.63%
+gainers,SVM,Silvercorp Metals Inc.,,10.23,+0.54,+5.57%
+gainers,TWO-PC,Two Harbors Investment Corp.,,24.76,+1.30,+5.56%
+gainers,TWO-PA,Two Harbors Investment Corp.,,24.73,+1.30,+5.55%
+gainers,AGI,Alamos Gold Inc.,,42.54,+2.23,+5.53%
+gainers,BTU,Peabody Energy Corporation,,39.50,+2.07,+5.53%
+gainers,TFX,Teleflex Incorporated,,116.22,+5.73,+5.19%

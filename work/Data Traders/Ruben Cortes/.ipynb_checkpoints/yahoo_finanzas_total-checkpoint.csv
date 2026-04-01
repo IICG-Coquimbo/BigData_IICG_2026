@@ -1,0 +1,76 @@
+categoria,simbolo,nombre,precio,cambio,porcentaje,volumen
+gainers,AGX,"Argan, Inc.",,566.62,+155.77,+37.91%
+gainers,U,Unity Software Inc.,,19.45,+2.32,+13.54%
+gainers,ADV,Advantage Solutions Inc.,,25.57,+2.99,+13.27%
+gainers,ADMA,"ADMA Biologics, Inc.",,9.25,+0.96,+11.58%
+gainers,MEOH,Methanex Corporation,,65.22,+5.76,+9.69%
+gainers,SSRM,SSR Mining Inc.,,26.45,+1.78,+7.24%
+gainers,AG,First Majestic Silver Corp.,,20.68,+1.36,+7.04%
+gainers,SQM,Sociedad Química y Minera de Chile S.A.,,82.70,+5.33,+6.89%
+gainers,TWO-PB,Two Harbors Investment Corp.,,24.73,+1.58,+6.83%
+gainers,ETR,Entergy Corporation,,109.88,+7.02,+6.82%
+gainers,GSAT,"Globalstar, Inc.",,64.16,+3.88,+6.45%
+gainers,CAR,"Avis Budget Group, Inc.",,148.45,+8.87,+6.35%
+gainers,HYMC,Hycroft Mining Holding Corporation,,33.05,+1.87,+6.00%
+gainers,NG,NovaGold Resources Inc.,,8.19,+0.46,+5.95%
+gainers,MRX,Marex Group plc,,42.96,+2.41,+5.94%
+gainers,CDE,"Coeur Mining, Inc.",,17.13,+0.96,+5.94%
+gainers,AUGO,Aura Minerals Inc.,,70.07,+3.80,+5.73%
+gainers,ORLA,Orla Mining Ltd.,,14.60,+0.79,+5.72%
+gainers,BF-B,Brown-Forman Corporation,,27.19,+1.45,+5.63%
+gainers,SVM,Silvercorp Metals Inc.,,10.23,+0.54,+5.57%
+gainers,TWO-PC,Two Harbors Investment Corp.,,24.76,+1.30,+5.56%
+gainers,TWO-PA,Two Harbors Investment Corp.,,24.73,+1.30,+5.55%
+gainers,AGI,Alamos Gold Inc.,,42.54,+2.23,+5.53%
+gainers,BTU,Peabody Energy Corporation,,39.50,+2.07,+5.53%
+gainers,TFX,Teleflex Incorporated,,116.22,+5.73,+5.19%
+losers,FLY,Firefly Aerospace Inc.,,23.70,-3.10,-11.58%
+losers,YOU,"Clear Secure, Inc.",,47.44,-5.96,-11.16%
+losers,ASTS,"AST SpaceMobile, Inc.",,78.67,-9.19,-10.46%
+losers,HNGE,"Hinge Health, Inc.",,36.25,-3.93,-9.78%
+losers,ZETA,Zeta Global Holdings Corp.,,14.55,-1.53,-9.51%
+losers,MMYT,MakeMyTrip Limited,,36.30,-3.70,-9.25%
+losers,COCO,"The Vita Coco Company, Inc.",,46.97,-4.71,-9.11%
+losers,WRD,WeRide Inc.,,6.95,-0.68,-8.97%
+losers,LUNR,"Intuitive Machines, Inc.",,17.52,-1.71,-8.89%
+losers,FIG,"Figma, Inc.",,20.19,-1.96,-8.85%
+losers,NTSK,"Netskope, Inc.",,7.73,-0.75,-8.84%
+losers,ELF,"e.l.f. Beauty, Inc.",,61.05,-5.83,-8.72%
+losers,HPP,"Hudson Pacific Properties, Inc.",,5.60,-0.53,-8.65%
+losers,CRBG,"Corebridge Financial, Inc.",,22.30,-2.11,-8.64%
+losers,RIOT,"Riot Platforms, Inc.",,12.80,-1.20,-8.60%
+losers,VCYT,"Veracyte, Inc.",,30.01,-2.79,-8.51%
+losers,EQH,"Equitable Holdings, Inc.",,35.34,-3.19,-8.28%
+losers,ENLT,Enlight Renewable Energy Ltd,,65.99,-5.95,-8.27%
+losers,GLXY,Galaxy Digital,,18.00,-1.61,-8.21%
+losers,SEZL,Sezzle Inc.,,61.58,-5.45,-8.13%
+losers,FOUR,"Shift4 Payments, Inc.",,44.48,-3.93,-8.12%
+losers,LMND,"Lemonade, Inc.",,60.70,-5.29,-8.02%
+losers,DNLI,Denali Therapeutics Inc.,,18.16,-1.58,-7.98%
+losers,KNF,Knife River Corporation,,80.20,-6.90,-7.92%
+losers,DDOG,"Datadog, Inc.",,114.48,-9.82,-7.90%
+most_active,NVDA,NVIDIA Corporation,,167.52,-3.72,-2.17%
+most_active,INTC,Intel Corporation,,43.13,-0.97,-2.20%
+most_active,GRAB,Grab Holdings Limited,,3.57,-0.14,-3.77%
+most_active,TSLA,"Tesla, Inc.",,361.83,-10.28,-2.76%
+most_active,NU,Nu Holdings Ltd.,,13.60,-0.42,-3.00%
+most_active,ONDS,Ondas Inc.,,8.80,-0.63,-6.71%
+most_active,AMZN,"Amazon.com, Inc.",,199.34,-8.34,-4.02%
+most_active,SOFI,"SoFi Technologies, Inc.",,15.23,-0.64,-4.03%
+most_active,U,Unity Software Inc.,,19.45,+2.32,+13.54%
+most_active,BMNR,"Bitmine Immersion Technologies, Inc.",,18.39,-1.08,-5.55%
+most_active,PLUG,Plug Power Inc.,,2.18,-0.07,-3.11%
+most_active,SNAP,Snap Inc.,,3.93,-0.08,-2.00%
+most_active,NOK,Nokia Oyj,,7.98,-0.30,-3.62%
+most_active,MARA,"MARA Holdings, Inc.",,8.02,-0.56,-6.53%
+most_active,AAPL,Apple Inc.,,248.80,-4.09,-1.62%
+most_active,AAL,American Airlines Group Inc.,,10.30,-0.41,-3.83%
+most_active,MU,"Micron Technology, Inc.",,357.22,+1.65,+0.46%
+most_active,NFLX,"Netflix, Inc.",,93.43,+0.11,+0.12%
+most_active,CCL,Carnival Corporation & plc,,24.19,-1.09,-4.31%
+most_active,RIG,Transocean Ltd.,,6.93,+0.04,+0.58%
+most_active,T,AT&T Inc.,,29.10,+0.18,+0.62%
+most_active,MSFT,Microsoft Corporation,,356.77,-9.20,-2.51%
+most_active,NIO,NIO Inc.,,5.31,-0.25,-4.50%
+most_active,BAC,Bank of America Corporation,,46.97,-1.27,-2.63%
+most_active,GOOGL,Alphabet Inc.,,274.34,-6.62,-2.36%

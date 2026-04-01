@@ -1,19 +1,19 @@
 services:
-  # Entorno de trabajo con Python y Spark pre-instalado
+  # Entorno de trabajo con Python y Spark
   workspace:
     image: jupyter/pyspark-notebook:latest
     container_name: bigdata_workspace
     ports:
-      - "8888:8888" # Jupyter Lab
-      - "4040:4040" # Panel de control de Spark
+      - "8888:8888"
+      - "4040:4040"
     volumes:
-      - .:/home/jovyan/work
+      - ./:/home/jovyan/work
     environment:
       - JUPYTER_TOKEN=
-      - JUPYTER_PASSWORD=""
+      - JUPYTER_PASSWORD=
       - JUPYTER_ALLOW_INSECURE_WRITES=true
 
-  # Base de Datos NoSQL
+  # Base de datos MongoDB
   database:
     image: mongo:latest
     container_name: bigdata_mongodb
@@ -22,5 +22,18 @@ services:
     volumes:
       - mongo_data:/data/db
 
+  # 👇 ESTO ES LO NUEVO (BIEN UBICADO)
+  mongo-express:
+    image: mongo-express
+    container_name: bigdata_mongo_express
+    restart: always
+    ports:
+      - "8081:8081"
+    environment:
+      ME_CONFIG_MONGODB_SERVER: bigdata_mongodb
+      ME_CONFIG_BASICAUTH_USERNAME: admin
+      ME_CONFIG_BASICAUTH_PASSWORD: pass
+
+# 👇 ESTO VA SOLO AQUÍ
 volumes:
   mongo_data:

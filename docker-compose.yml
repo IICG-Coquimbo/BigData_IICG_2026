@@ -1,52 +1,71 @@
 services:
-  # Contenedor principal con Jupyter, Spark y entorno visual
   workspace:
-    build: .                      # Construye la imagen usando el Dockerfile local
+    build: .
     container_name: bigdata_workspace
-    platform: linux/amd64
-
     ports:
-      - "8888:8888"               # Jupyter Lab
-      - "4040:4040"               # Interfaz web de Spark
-      - "5900:5900"               # Acceso VNC al escritorio
-      - "6080:6080"               # Acceso noVNC desde navegador
-
+      - "8888:8888"
+      - "6080:6080"
+      - "4040:4040"
     volumes:
-      - .:/home/jovyan/work       # Monta la carpeta del proyecto dentro del contenedor
-
+      - .:/home/jovyan/work
     environment:
       - JUPYTER_TOKEN=
       - JUPYTER_PASSWORD=
       - JUPYTER_ALLOW_INSECURE_WRITES=true
+      - JUPYTER_ENABLE_LAB=yes
       - DISPLAY=:99
-
-    shm_size: "2gb"               # Evita fallos del navegador Selenium
+    shm_size: "2gb"
     depends_on:
       - mongodb
+    dns:
+      - 8.8.8.8
+    user: root
+    restart: always
+    networks:
+      - bigdata_net
 
-  # Contenedor de base de datos MongoDB
   mongodb:
     image: mongo:latest
     container_name: bigdata_mongodb
     platform: linux/amd64
     ports:
       - "27017:27017"
-
     volumes:
-      - mongo_data:/data/db       # Guarda los datos de forma persistente
+      - mongo_data:/data/db
+    restart: always
+    networks:
+      - bigdata_net
 
-  # Interfaz web para visualizar la base de datos en puerto 8081
-  admin-db:
+  visualizer:
     image: mongo-express:latest
     container_name: bigdata_ui
-    restart: always
     ports:
       - "8081:8081"
     environment:
-      - ME_CONFIG_MONGODB_URL=mongodb://mongodb:27017/
-    depends_on:
-      - mongodb
+      - ME_CONFIG_MONGODB_URL=mongodb+srv://usuario:password@cluster0.kthdyh1.mongodb.net/?retryWrites=true&w=majority
+      - ME_CONFIG_MONGODB_ENABLE_ADMIN=true
+      - VC_NODE_TLS_REJECT_UNAUTHORIZED=0
+    dns:
+      - 8.8.8.8
+    restart: always
+    networks:
+      - bigdata_net
 
-# Volumen persistente para MongoDB
+  filebrowser:
+    image: filebrowser/filebrowser
+    container_name: BigData_FileBrowser
+    ports:
+      - "8082:80"
+    volumes:
+      - .:/srv
+    restart: always
+    networks:
+      - bigdata_net
+
 volumes:
   mongo_data:
+
+networks:
+  bigdata_net:
+    driver: bridge
+    name: BigData_Network_UCN
